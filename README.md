@@ -26,33 +26,93 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-![322402720-66bf8346-99be-479b-86cf-d8f197bb6dc1](https://github.com/KesavDeepak/EXNO-4-DS/assets/139336019/ad5668fd-4517-4dc5-9689-1af82afb860a)
-![322402804-c662fe28-32c8-4178-8cc6-ed8997f036b0](https://github.com/KesavDeepak/EXNO-4-DS/assets/139336019/120b1c4f-b1c8-4162-a19d-5aea07e525cf)
-![322402860-69a21166-1be8-4779-8e21-b653d7c4f52e](https://github.com/KesavDeepak/EXNO-4-DS/assets/139336019/f790fb14-46fd-444f-9d59-acfb829f6778)
-![322402912-afd7099e-ca59-499e-be65-9664fa5d8b86](https://github.com/KesavDeepak/EXNO-4-DS/assets/139336019/02753db2-1677-4a1b-ba3a-acabfacd5f63)
-![322402955-c49edb65-7480-45e8-b845-30b33914495a](https://github.com/KesavDeepak/EXNO-4-DS/assets/139336019/537d0831-a6fc-42ee-9528-764bd639bec1)
-![322403011-026dcf32-38f5-46e1-8063-69966041ef82](https://github.com/KesavDeepak/EXNO-4-DS/assets/139336019/8ce4332f-95bc-44af-af2b-46073a5a55b1)
-![322403054-8541132f-d413-4400-8428-4c7fc7b9a3c4](https://github.com/KesavDeepak/EXNO-4-DS/assets/139336019/3660f776-3d7f-418c-842b-6950a1f2d0e9)
-![322403100-aeeb6460-5eea-45cd-bb57-a1ec982b5441](https://github.com/KesavDeepak/EXNO-4-DS/assets/139336019/778ad19f-4139-4fcb-901f-16dfba0b2577)
-![322403139-8245c4df-0907-4562-bcf3-918640961833](https://github.com/KesavDeepak/EXNO-4-DS/assets/139336019/d6d5c989-e462-42ac-81b3-cb004f4cfd85)
-![322403179-b6e17ffb-d5bd-47e3-8fa1-c7205d6b956b](https://github.com/KesavDeepak/EXNO-4-DS/assets/139336019/0417824b-e500-43e4-9239-3f1bbff27994)
-![322403223-c8852224-aa56-4e4a-873e-3ffb02773b78](https://github.com/KesavDeepak/EXNO-4-DS/assets/139336019/b4f85b43-9ff5-480c-9190-c73ca9bdf508)
-![322403266-b7e15449-0e97-405d-8f8e-cb37b2f8c9e6](https://github.com/KesavDeepak/EXNO-4-DS/assets/139336019/60436780-24f7-4590-adbf-c88eda4fc829)
-![322403303-27c4f53d-b4c0-4eed-9eb6-dd31b238f5a1](https://github.com/KesavDeepak/EXNO-4-DS/assets/139336019/42920358-e2ca-40af-8bb3-0474617a7a93)
-![322403347-3ba91785-882a-45dd-8563-e6595828fdcd](https://github.com/KesavDeepak/EXNO-4-DS/assets/139336019/7d9b8535-63c4-4216-8316-ad5c5c58019b)
-![322403384-1cf8d8a7-9eed-4f5b-8144-54d67bc1fa74](https://github.com/KesavDeepak/EXNO-4-DS/assets/139336019/b3c9ae66-273c-44b0-949a-d5b97322263a)
-![322403452-9f0ccd4d-feef-4051-ba8b-f5f98f76c28d](https://github.com/KesavDeepak/EXNO-4-DS/assets/139336019/e2d06230-c9e8-49eb-8372-62246a699768)
-![322403525-c3ead24a-040e-4d87-93fb-3a7f43ebd06d](https://github.com/KesavDeepak/EXNO-4-DS/assets/139336019/817022e3-b07f-4d61-800d-678e70fcbe56)
-![322403572-fcec1c84-36e0-4284-9121-ddf50c83ffb5](https://github.com/KesavDeepak/EXNO-4-DS/assets/139336019/b20b9593-2268-4b61-898a-067bee3e5cbe)
-![322403633-54a2df43-7590-4c88-9590-1a9f1c3c9838](https://github.com/KesavDeepak/EXNO-4-DS/assets/139336019/60d0ee6b-8f51-47ab-8b66-9afaf0f309fe)
-![322403667-96cb2202-651c-40b6-8fbd-d10d54db4eb3](https://github.com/KesavDeepak/EXNO-4-DS/assets/139336019/4c31152b-53ca-4a14-b52e-cc5e8ada0274)
-![322403717-c386bbc2-bf1b-4472-9cc4-03abfac6cb2b](https://github.com/KesavDeepak/EXNO-4-DS/assets/139336019/422c2c4c-b119-42eb-8754-6986091af060)
-![322403758-89adf369-5755-4b1c-bc52-f0a1cfd7843b](https://github.com/KesavDeepak/EXNO-4-DS/assets/139336019/9fe453cf-585b-479c-872d-9e17cc03983b)
-![322403791-4f7c73a0-6f22-4b99-b843-bfd05ae3f65c](https://github.com/KesavDeepak/EXNO-4-DS/assets/139336019/a07306b3-1510-4027-8541-260ddc4de125)
-![322403791-4f7c73a0-6f22-4b99-b843-bfd05ae3f65c](https://github.com/KesavDeepak/EXNO-4-DS/assets/139336019/dba6d2cf-33e6-4468-bc2d-24e02c21a0e5)
-![322403873-801ebc90-3b75-45e6-8ca4-830199104b2d](https://github.com/KesavDeepak/EXNO-4-DS/assets/139336019/02f62574-8056-4566-83d5-525ff8707d82)
+
+```python
+import pandas as pd
+import numpy as np
+
+df = pd.read_csv("/content/bmi.csv")
+print(df.head())
+
+```
+<img width="385" height="122" alt="image" src="https://github.com/user-attachments/assets/0e701381-43cd-44e9-a0ff-fd0ebaf1d0b6" />
+
+```python
+print(df.info())
+```
+<img width="382" height="220" alt="image" src="https://github.com/user-attachments/assets/26fffdac-2dfe-479f-a6a8-8f2b053ab3e7" />
+
+<img width="476" height="563" alt="image" src="https://github.com/user-attachments/assets/6b82be32-6762-4978-b78d-84fe6fac2305" />
+<img width="478" height="329" alt="image" src="https://github.com/user-attachments/assets/c97748cf-5a15-4186-924e-a80385496ef2" />
+
+## FEATURE SCALING :
 
 
+```python
+from sklearn.preprocessing import StandardScaler
+from sklearn.preprocessing import MinMaxScaler
+from sklearn.preprocessing import MaxAbsScaler
+from sklearn.preprocessing import RobustScaler
+
+# Select Numeric Columns
+num_cols = df.select_dtypes(include=np.number).columns
+
+```
+<img width="527" height="367" alt="image" src="https://github.com/user-attachments/assets/fffe8c1d-86ae-4fb5-98f3-8f02d39dc721" />
+
+<img width="533" height="361" alt="image" src="https://github.com/user-attachments/assets/5db21cad-eea0-4977-a557-c6930f68a274" />
+
+<img width="531" height="359" alt="image" src="https://github.com/user-attachments/assets/04600c35-ff22-4a60-8bfd-7605834756e8" />
+
+<img width="533" height="366" alt="image" src="https://github.com/user-attachments/assets/5ea80507-c063-4f4f-a8eb-f32cb79b4824" />
+
+## FEATURE SELECTION :
+```python
+from sklearn.feature_selection import SelectKBest
+from sklearn.feature_selection import chi2
+from sklearn.preprocessing import OneHotEncoder
+
+# Example:
+# Last column considered as target variable
+X = df.iloc[:, :-1]
+Y = df.iloc[:, -1]
+
+# Apply one-hot encoding to the 'Gender' column
+encoder = OneHotEncoder(handle_unknown='ignore', sparse_output=False)
+gender_encoded = encoder.fit_transform(X[['Gender']])
+gender_df = pd.DataFrame(gender_encoded, columns=encoder.get_feature_names_out(['Gender']))
+
+# Drop the original 'Gender' column and concatenate the one-hot encoded columns
+X_encoded = X.drop('Gender', axis=1)
+X_encoded = pd.concat([X_encoded.reset_index(drop=True), gender_df], axis=1)
+
+
+# Select Top 3 Features
+best_features = SelectKBest(score_func=chi2, k=3)
+
+fit = best_features.fit(X_encoded, Y)
+
+feature_scores = pd.DataFrame(fit.scores_)
+feature_columns = pd.DataFrame(X_encoded.columns)
+
+# Combine Columns and Scores
+featureScores = pd.concat(
+    [feature_columns, feature_scores],
+    axis=1
+)
+
+featureScores.columns = ['Features', 'Score']
+
+print(featureScores)
+
+# Top Features
+print(featureScores.nlargest(3, 'Score'))
+```
+<img width="384" height="169" alt="image" src="https://github.com/user-attachments/assets/71998e22-0289-4e1d-b512-287c26117d7c" />
+
+## SAVE CLEANED DATA :
+
+<img width="541" height="160" alt="image" src="https://github.com/user-attachments/assets/93b64a08-b45e-49cb-8ebc-8670d897e3cf" />
 
 
 # RESULT:
